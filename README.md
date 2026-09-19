@@ -1,6 +1,6 @@
 #  Customer Churn Analysis | Exploratory Data Analysis (EDA)
 
-An end-to-end **Customer Churn Analysis** project that explores telecom customer behavior using **Python, Pandas, Matplotlib, and Seaborn**. The project focuses on data cleaning, exploratory data analysis (EDA), visualization, and deriving actionable business insights to understand why customers leave a service.
+An  **Customer Churn Analysis** project that explores telecom customer behavior using **Python, Pandas, Matplotlib, and Seaborn**. The project focuses on data cleaning, exploratory data analysis (EDA), visualization, and deriving actionable business insights to understand why customers leave a service.
 
 ##  Project Overview
 
